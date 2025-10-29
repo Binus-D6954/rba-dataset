@@ -1,7 +1,7 @@
 # Risk-based Authentication Dataset
 Dataset related to User Login Logs, in order to do AI model training of Risk-based Authentication combined with Large Language Model (LLM).
 
-# Data Description
+# Data Description in login_logs.csv
 1. id : Primary key ID from MySQL
 2. email: User's email
 3. ip : IP used by user when logging in
